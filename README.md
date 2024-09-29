@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **I am learning React and Tailwind CSS for fun because, why not? I am currently diving into the world of JavaScript. My goal is to gain proficiency in this versatile language to enhance my web development skills. I'm particularly excited about exploring frameworks like React and Node.js, which will enable me to create more dynamic and interactive web applications. Alongside JavaScript, I'm also refining my skills in Java and Python (ML libraries). By deepening my understanding of these languages, I aim to build more efficient and scalable applications.**
 
-- 📫 How to reach me **mdelv065@fiu.edu**
+- 📫 How to reach me **markadelva@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
