@@ -1,27 +1,127 @@
-# 💫 About Me:
-<br>- 🔭 I’m currently working on a [Car Questionnaire Website & Visualizer](https://github.com/MrkAnthony/Car).<br>- 🌱 I’m learning React, JavaScript, Go, and Machine Learning.<br>- 💬 Ask me about web development, machine learning, and anything tech-related!<br>- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mark-anthony-delva-914194294/)<br>- ⚡ Fun fact: I love cars, coding, building LEGO models, and going to the gym.
+<div align="center">
 
+# 💫 Mark-Anthony Delva
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mark-anthony-delva-914194294) 
+### Student Engineer | Builder of Ideas | Driven by Curiosity & Impact
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=plastic&logo=daisyui&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MrkAnthony&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MrkAnthony&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrkAnthony&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-anthony-delva-914194294/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MrkAnthony&theme=darcula&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MrkAnthony&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+## 👋 About Me
 
----
-[![](https://visitcount.itsvg.in/api?id=MrkAnthony&icon=2&color=3)](https://visitcount.itsvg.in)
+**Senior at Florida International University** (Knight Foundation School of Computing & Information Sciences) | Graduating August 2026
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I specialize in building full-stack applications and data pipelines while exploring machine learning models. Technology isn't just my career path it's my passion. Whether bringing ideas to life or creating solutions that genuinely improve people's daily lives, I approach every project with enthusiasm and dedication.
+
+<br>
+
+## 🚀 Featured Projects
+
+### 🏆 [AutoInsight](https://auto-insight-tau.vercel.app/) 🔗
+
+Full-stack car recommendation platform with AI-powered suggestions and 50,000+ vehicle database.
+
+**Tech Stack:** React • Node.js • Express • Tailwind • OpenAI API • MYSQL
+
+**Features:**
+- 🧠 Custom scoring algorithm with AI recommendations
+- 📊 50,000+ vehicle database with price lookup
+- 🎨 Responsive UI with modern design
+
+<div align="center">• • •</div>
+
+### 🏆 [Butterfly Detection System](https://butterfly-web-app.vercel.app/) 🔗
+
+AI-powered environmental monitoring system using few-shot learning and Hugging Face models.
+
+**Tech Stack:** Next.js • Tailwind • Python • TensorFlow • MongoDB • AWS
+
+**Features:**
+- 🧪 Few-shot learning with pre-trained models
+- 🌐 Custom web application UI/UX design
+- 🔗 Integrated data pipelines from hardware to web
+
+<div align="center">• • •</div>
+
+### 🏆 [Reality Check](https://github.com/nmesosphere/Reality-Check) 🔗
+
+AI deepfake detection model that distinguishes between authentic and AI-generated images using instance segmentation.
+
+**Tech Stack:** Python • Flask • OpenCV • Google Colab • Roboflow
+
+**Features:**
+- 🔍 Instance segmentation for AI manipulation detection
+- ⚡ 2.0ms image analysis with 75-80% accuracy
+- 🛡️ Combats harmful deepfake media dissemination
+
+## 💭 What Drives Me
+
+<div align="center">
+
+> *"If you ask anybody who knows me, they'll say I love making software that can make anybody's life better, because I love helping people."*
+
+</div>
+
+**Featured In:** [Refresh Miami - "Breaking Into Tech"](https://refreshmiami.com/news/breaking-into-tech-how-one-student-is-charting-his-path-with-help-from-fius-tech-talent-academy/)
+
+<br>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img align="left" alt="JavaScript" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Python" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Java" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="React" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="ViteJS" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+<img align="left" alt="TailwindCSS" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+<img align="left" alt="NodeJS" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" alt="Flask" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+<img align="left" alt="Django REST" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-plain-wordmark.svg" />
+<img align="left" alt="Apache Airflow" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
+<img align="left" alt="OpenCV" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" />
+<img align="left" alt="Git" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="MYSQL" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Docker" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+<img align="left" alt="Postman" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+<img align="left" alt="Postgresql" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+          
+
+<br clear="left" />
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrkAnthony&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrkAnthony&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrkAnthony&theme=tokyonight&hide_border=true)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=MrkAnthony&color=blueviolet&style=flat-square)
+
+**Thanks for stopping by! Let's build something amazing together** 🚀
+
+*Open to collaborations and new opportunities*
+
+</div>
