@@ -36,15 +36,17 @@ Full-stack car recommendation platform with AI-powered suggestions and 50,000+ v
 
 ### 🏆 [Butterfly Detection System](https://butterfly-web-app.vercel.app/) 🔗
 
-AI-powered environmental monitoring system using few-shot learning and Hugging Face models.
+An AI-driven environmental monitoring system that automates butterfly detection and species identification using few-shot learning and transfer learning in TensorFlow.
 
-**Tech Stack:** Next.js • Tailwind • Python • TensorFlow • MongoDB • AWS
+**Tech Stack:** Next.js • Tailwind CSS • Python • TensorFlow • MongoDB • AWS • Raspberry Pi
 
 **Features:**
-- 🧪 Few-shot learning with pre-trained models
-- 🌐 Custom web application UI/UX design
-- 🔗 Integrated data pipelines from hardware to web
-
+- 🤖 Applied few-shot learning with an EfficientNetV2 model in TensorFlow to improve detection reliability with limited data
+- 🧠 Leveraged transfer learning to adapt the model for new butterfly species
+- 🔧 Worked with the hardware team to configure the Raspberry Pi, camera, and optical-flow modules, establishing a live data stream for model inference
+- 🌐 Developed a responsive web interface using Next.js and Tailwind CSS to visualize real-time detection results
+- 🤝 Collaborated across hardware, web, and machine learning teams to integrate the system end-to-end
+  
 <div align="center">• • •</div>
 
 ### 🏆 [Reality Check](https://github.com/nmesosphere/Reality-Check) 🔗
