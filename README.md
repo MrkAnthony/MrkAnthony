@@ -68,7 +68,9 @@ AI deepfake detection model that distinguishes between authentic and AI-generate
 
 </div>
 
-**Featured In:** [Refresh Miami - "Breaking Into Tech"](https://refreshmiami.com/news/breaking-into-tech-how-one-student-is-charting-his-path-with-help-from-fius-tech-talent-academy/)
+**Featured In:**  
+- [Refresh Miami — "Breaking Into Tech"](https://refreshmiami.com/news/breaking-into-tech-how-one-student-is-charting-his-path-with-help-from-fius-tech-talent-academy/)  
+- [FIU News — "Buzz Ignites Career Path for Engineering Senior"](https://news.fiu.edu/2025/fiu-buzz-ignites-career-path-for-engineering-senior)
 
 <br>
 
