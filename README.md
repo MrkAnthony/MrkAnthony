@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-**Senior at Florida International University** (Knight Foundation School of Computing & Information Sciences) | Graduating August 2026
+**Senior at Florida International University** (Knight Foundation School of Computing & Information Sciences) | Graduating December 2026
 
 I specialize in building full-stack applications and data pipelines while exploring machine learning models. Technology isn't just my career path it's my passion. Whether bringing ideas to life or creating solutions that genuinely improve people's daily lives, I approach every project with enthusiasm and dedication.
 
