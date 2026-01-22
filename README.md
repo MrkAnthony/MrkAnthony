@@ -19,6 +19,23 @@ I specialize in building full-stack applications and data pipelines while explor
 
 <br>
 
+## 🔭 Currently Working On
+
+### 🧙‍♂️ [The Distributed Math Wizard](https://github.com/MrkAnthony/distributed-math-wizard) 🔗
+
+A high-availability load balancing system demonstrating horizontal scaling, secure proxying, and failover the same infrastructure patterns used by Netflix, Amazon, and Spotify.
+
+**Tech Stack:** Python • Flask • NGINX • Docker • Let's Encrypt • Certbot
+
+**Features:**
+- ⚖️ Load balancer distributing traffic across 3 worker containers with identity tracking
+- 🔒 SSL/TLS encryption via Let's Encrypt for secure HTTPS communication
+- 💀 Automatic failover if a server dies, traffic reroutes seamlessly
+- 🎨 Color-coded UI showing which server handled each request in real-time
+- 🚀 One-command deployment with `docker-compose up`
+
+<br>
+
 ## 🚀 Featured Projects
 
 ### 🏆 [AutoInsight](https://auto-insight-tau.vercel.app/) 🔗
@@ -47,6 +64,34 @@ An AI-driven environmental monitoring system that automates butterfly detection 
 - 🌐 Developed a responsive web interface using Next.js and Tailwind CSS to visualize real-time detection results
 - 🤝 Collaborated across hardware, web, and machine learning teams to integrate the system end-to-end
   
+<div align="center">• • •</div>
+
+### 🏆 [Discord Mock Interview Bot](https://github.com/MrkAnthony/discord_bot) 🔗
+
+A Discord bot helping students land tech jobs through automated mock interview pairing and real-time job postings.
+
+**Tech Stack:** Python • Discord.py • GitHub Actions • REST APIs
+
+**Features:**
+- 🎯 Auto-matches users by difficulty level (Easy/Medium/Hard) with coding problems and industry-standard evaluation rubrics used by actual interviewers
+- 🔊 Creates private voice channels with automatic cleanup after sessions end
+- 💼 Posts internship & new grad jobs 4x daily sourced from job boards
+- 🎓 Filters for SWE, PM, and Data Science roles only shows jobs posted within 0-3 days
+
+<div align="center">• • •</div>
+
+### 🏆 [The Distributed Math Wizard](https://github.com/MrkAnthony/distributed-math-wizard) 🔗
+
+A high-availability load balancing system demonstrating horizontal scaling, secure proxying, and failover — the same infrastructure used by Netflix, Amazon, and Spotify.
+
+**Tech Stack:** Python • Flask • NGINX • Docker • Let's Encrypt • Certbot
+
+**Features:**
+- ⚖️ Load balancer distributing traffic across 3 worker containers with identity tracking
+- 🔒 SSL/TLS encryption via Let's Encrypt for secure HTTPS communication
+- 💀 Automatic failover — if a server dies, traffic reroutes seamlessly to survivors
+- 🚀 One-command deployment with `docker-compose up`
+
 <div align="center">• • •</div>
 
 ### 🏆 [Reality Check](https://github.com/nmesosphere/Reality-Check) 🔗
