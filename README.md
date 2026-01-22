@@ -25,7 +25,7 @@ I specialize in building full-stack applications and data pipelines while explor
 
 A high-availability load balancing system demonstrating horizontal scaling, secure proxying, and failover the same infrastructure patterns used by Netflix, Amazon, and Spotify.
 
-**Tech Stack:** Python • Flask • NGINX • Docker • Let's Encrypt • Certbot
+**Tech Stack:** Python • Flask • NGINX • Docker 
 
 **Features:**
 - ⚖️ Load balancer distributing traffic across 3 worker containers with identity tracking
