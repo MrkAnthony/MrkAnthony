@@ -21,7 +21,7 @@ I specialize in building full-stack applications and data pipelines while explor
 
 ## 🔭 Currently Working On
 
-### 🧙‍♂️ [The Distributed Math Wizard](https://github.com/MrkAnthony/distributed-math-wizard) 🔗
+### 🧙‍♂️ [The Distributed Math Wizard](https://github.com/MrkAnthony/TheDistributedMathWizard) 🔗
 
 A high-availability load balancing system demonstrating horizontal scaling, secure proxying, and failover the same infrastructure patterns used by Netflix, Amazon, and Spotify.
 
