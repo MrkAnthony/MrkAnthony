@@ -80,20 +80,6 @@ A Discord bot helping students land tech jobs through automated mock interview p
 
 <div align="center">• • •</div>
 
-### 🏆 [The Distributed Math Wizard](https://github.com/MrkAnthony/distributed-math-wizard) 🔗
-
-A high-availability load balancing system demonstrating horizontal scaling, secure proxying, and failover — the same infrastructure used by Netflix, Amazon, and Spotify.
-
-**Tech Stack:** Python • Flask • NGINX • Docker • Let's Encrypt • Certbot
-
-**Features:**
-- ⚖️ Load balancer distributing traffic across 3 worker containers with identity tracking
-- 🔒 SSL/TLS encryption via Let's Encrypt for secure HTTPS communication
-- 💀 Automatic failover — if a server dies, traffic reroutes seamlessly to survivors
-- 🚀 One-command deployment with `docker-compose up`
-
-<div align="center">• • •</div>
-
 ### 🏆 [Reality Check](https://github.com/nmesosphere/Reality-Check) 🔗
 
 AI deepfake detection model that distinguishes between authentic and AI-generated images using instance segmentation.
