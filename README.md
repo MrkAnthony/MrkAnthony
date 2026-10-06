@@ -38,19 +38,6 @@ A high-availability load balancing system demonstrating horizontal scaling, secu
 
 ## 🚀 Featured Projects
 
-### 🏆 [AutoInsight](https://auto-insight-tau.vercel.app/) 🔗
-
-Full-stack car recommendation platform with AI-powered suggestions and 50,000+ vehicle database.
-
-**Tech Stack:** React • Node.js • Express • Tailwind • OpenAI API • MYSQL
-
-**Features:**
-- 🧠 Custom scoring algorithm with AI recommendations
-- 📊 50,000+ vehicle database with price lookup
-- 🎨 Responsive UI with modern design
-
-<div align="center">• • •</div>
-
 ### 🏆 [Butterfly Detection System](https://butterfly-web-app.vercel.app/) 🔗
 
 An AI-driven environmental monitoring system that automates butterfly detection and species identification using few-shot learning and transfer learning in TensorFlow.
